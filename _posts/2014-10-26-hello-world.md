@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world!"
+title: "hello world!"
 date: 2014-10-26 15:57:01
 categories: milestone
 ---
